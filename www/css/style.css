@@ -1,0 +1,68 @@
+/* Empty. Add your own CSS if you like */
+.Aligner {
+  padding-top:    20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+	
+}
+
+.Aligner-item {
+  max-width: 100%;
+  text-align: center;
+  
+}
+
+.icon-row{
+	padding-top:    20%;
+	background-color:  #658aa2;
+	color: #ffffff;
+}
+
+.titulo{
+	color: #658aa2;
+	text-align: center;
+	padding-top: 10%;
+	font-size: 20px;
+}
+
+.logan{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color:  #658aa2;	
+	
+	font-size: 16px;
+}
+h1, h2, h3, h4, h6 {
+color: #658aa2;
+text-align: justify;
+padding-top: 15%;
+
+
+}
+
+h5{
+
+text-align: center;
+
+}
+
+.texto{
+margin-top: 3%;
+background-color:  #658aa2;	
+color: #ffffff;
+font-size: 16px;
+text-align: justify;
+padding-top: 10%;
+padding-right: 5% ;
+padding-left: 5%;
+padding-bottom: 5%
+
+
+}
+
+
+
